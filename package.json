@@ -1,0 +1,14 @@
+{
+  "name": "node-robotic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkRange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "python-shell": "^0.4.0"
+  }
+}
